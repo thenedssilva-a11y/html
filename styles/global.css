@@ -12,8 +12,9 @@ div{
     height: 200px;
  }
 
-p {
-    color: red;
+p:hover{
+    color: white;
+    font-size: 1.5rem;
     text-align: center;
 
  }
@@ -32,4 +33,7 @@ p {
     font-weight: bolder;
  }
 
+ .a1{
+    color: burlywood;
+ }
  
