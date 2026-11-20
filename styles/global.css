@@ -19,6 +19,13 @@ p:hover{
 
  }
 
+ p:active{
+    color: green;
+    font-size: 2rem;
+    text-align: center;
+
+ }
+
  h1{
 
     font-style: italic;
