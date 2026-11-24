@@ -1,19 +1,27 @@
-body {
+/* body {
 
-    /* background-color: #000; */
-    /* border: 2px solid #fff; */
+    background-color: #000; */
+    /* border: 2px solid #fff;
     background-color: #ffff;
     background-image: url(../images/tux.jpg);
     background-repeat: no-repeat;
     height: 4000px;
-    /* border-width: 2px; */
+    border-width: 2px;
     border-color: #fff;
     border-style: solid;
-    background-attachment: scroll;
-    
-    
-}   
+    background-attachment: scroll;    
+}
+    */
 
+
+div {
+   height: 100px;
+   background-color: red;
+   margin-left: 50px;
+   margin-right: 50px;
+   margin-top: 50px;
+   margin-bottom: 50px;
+}
 
 .hover:hover{
     color: red;
