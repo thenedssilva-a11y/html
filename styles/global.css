@@ -69,15 +69,12 @@ body{
    border: 8px solid black;
 } */
 
-.stick{
-   position: sticky;
-   top: 0;
-   height: 100px;
-   background-color: #ff000080;
-   
+.display-block{
+   display: inline;
+   background-color: black; 
 }
 
-.rolagem{
-   padding-bottom: 2000px;
+.display-block-red{
+   display: inline;
+   background-color: red; 
 }
-
