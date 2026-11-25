@@ -72,7 +72,8 @@ body{
 .stick{
    position: sticky;
    top: 0;
-   border: 6px solid blue;
+   height: 100px;
+   background-color: rgb(162, 51, 51, 0.5);
    
 }
 
